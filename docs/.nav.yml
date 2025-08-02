@@ -1,0 +1,10 @@
+nav:
+  - "*" 
+  # - __test: ___2-split-lower-day.md
+  # - Christian Thibaudeau: christian-thibaudeau
+
+sort:
+  ignore_case: true
+  sections: mixed
+
+  # by: path # path and filename
