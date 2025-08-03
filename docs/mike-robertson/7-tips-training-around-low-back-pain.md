@@ -130,37 +130,41 @@ https://www.youtube.com/watch?v=buIE1LjtIaY&t=97s  RTS Coaching: Thorax Rotation
 
 
 
-
+The half-kneeling alternating cable press is a great example. Our goal is to lock down the lower half and core, and then drive rotation up top through the thorax.
 
 半跪式交替拉力器推举就是一个很好的例子。我们的目标是锁定下半身和核心肌群，然后通过胸腔向上推动旋转。
+https://www.youtube.com/watch?v=kmsZLT24qeY
 
-
+![image-20250803133205007](../images/image-20250803133205007.png)
 
 相反，当我们谈论左右*弯曲*胸部时，手臂动作往往更倾向于*垂直*（想象上下），就像你在这种地雷按压变体中看到的那样。
+In contrast, when we’re talking about *bending* the thorax side-to-side, the arm action tends to be more *vertical* in nature (think up and down), like you’d see in this landmine press variation.
 
+https://www.youtube.com/watch?v=-bFkPJPE7T0
 
+![image-20250803133258744](../images/image-20250803133258744.png)
 
 
 
 现在我们已经讨论了这些内容，下面是我用来从这些练习中获得正确动作的一些指导提示。
 
-#### 旋转胸腔的技巧和提示
+#### 旋转胸腔的技巧和提示 Tips and Cues to Rotate the Thorax 
 
-- **保持挺直身躯，充分呼气。**这能帮助调整姿势，并确保核心肌群处于正确的起始位置。
-- **伸展！**无论哪只手臂向前，都是如此，这就是为什么我在所有这些练习中都要求两只手臂都运动。
-- **保持胸腔向后。** 当你开始做这样的练习时，身体会倾向于向前倾。保持胸腔向后，并覆盖下半身。
-- **瞄准激光！**想象你的胸骨上有一束激光，然后一边挥动手臂，一边左右移动激光（这个动作要向迈克·坎特雷尔致敬！）
+- **Stay tall and exhale fully.保持挺直身躯，充分呼气。**这能帮助调整姿势，并确保核心肌群处于正确的起始位置。
+- **REACH 伸展！**无论哪只手臂向前，都是如此，这就是为什么我在所有这些练习中都要求两只手臂都运动。
+- **Keep the thorax BACK保持胸腔向后。** 当你开始做这样的练习时，身体会倾向于向前倾。保持胸腔向后，并覆盖下半身。
+- **Point the laser瞄准激光！**想象你的胸骨上有一束激光，然后一边挥动手臂，一边左右移动激光（这个动作要向迈克·坎特雷尔致敬！）
 
-#### 左右弯曲胸腔的提示
+#### 左右弯曲胸腔的提示 Cues to Bend the Thorax Side-to-Side 
 
 上一节中的前三个提示在这里也适用。不过，当我们左右移动胸部时，这里还有两个提示可以参考：
 
-- **打开和关闭腹壁。** 胸廓侧弯对很多人来说可能难以想象，所以给他们一个不同的参考可能会有帮助。我喜欢告诉他们打开和关闭腹壁——比如关闭右侧腹壁，然后再打开，反之亦然。
-- **保持细微！**这里没有大量的动作，所以大多数客户/运动员会为了让我们开心而尝试做太多。相反，你应该提示他们动作要细微——锁定核心，然后*轻轻地*左右弯曲。
+- **Open and Close the Ab Walls打开和关闭腹壁。** 胸廓侧弯对很多人来说可能难以想象，所以给他们一个不同的参考可能会有帮助。我喜欢告诉他们打开和关闭腹壁——比如关闭右侧腹壁，然后再打开，反之亦然。
+- **Keep it subtle保持细微！**这里没有大量的动作，所以大多数客户/运动员会为了让我们开心而尝试做太多。相反，你应该提示他们动作要细微——锁定核心，然后**轻轻地**左右弯曲。
 
 恢复胸腔的运动并不会为您赢得任何健美比赛或举重比赛，但这是您可以做的一些小事之一，可以让您的客户和运动员保持健康和一生的良好运动。
 
-## 5 – 使用替代加载策略
+## 5 – 使用替代加载策略 Use Alternate Loading Strategies
 
 在训练方面我看到的最大问题之一是，人们认为如果你不使用深蹲和硬拉等大重量动作，那么你就没有进行努力训练。
 
@@ -176,12 +180,12 @@ https://www.youtube.com/watch?v=buIE1LjtIaY&t=97s  RTS Coaching: Thorax Rotation
 
 （不确定 HICT 是什么？观看此短片……）
 
-iframe
+https://www.youtube.com/watch?v=wNpoVxRNWk0
 
 
 它们可能不像深蹲或硬拉那样性感，但替代负重策略在训练患有下背部问题的客户或运动员时可以发挥巨大作用。
 
-## 6 – 到达
+## 6 – 伸展 REACH 
 
 在许多情况下，患有下背部疼痛的人不仅有一定程度的不受控制的伸展（即骨盆前倾、下肋骨外翻等），而且还*伴随有前部重量转移*。
 
@@ -197,23 +201,26 @@ iframe
 
 虽然下面的视频是针对肩部疼痛的人的，但伸展的想法和概念仍然适用于背痛的人。
 
-iframe
+https://www.youtube.com/watch?v=7LpCVVbr7z4
 
 
 无论是下半身下蹲变体、俯卧撑变体，还是我们上面描述的胸部运动之一，都应提示您的客户和运动员伸展手臂（或肘部）。
 
 他们的身体会感谢你！
 
-## 7 – 花更多时间半跪
+## 7 – 花更多时间半跪 Spend More Time in Half-Kneeling
 
 对于那些患有下背部问题的客户和运动员来说，我最常用的姿势之一就是半跪。
 
 **这确实有点令人惊奇 - 但只要让某人处于这个位置并让他们呼吸就可以奇迹般地关闭他们的髋屈肌和背部，同时驱动髋部伸展。**
+**It’s kind of amazing, really – but just putting someone in this position and having them breathe can do wonders for shutting off their hip flexors and back, while simultaneously driving hip extension.**
 
 如果你不熟悉半跪式练习，不妨花几分钟时间观看这段简短的视频。它不仅讲解了正确的练习方法，还提供了丰富的练习变式供你尝试。
 
+https://www.youtube.com/watch?v=K1H0rWxcJ8k
 
-iframe
+
+![image-20250803133905673](../images/image-20250803133905673.png)
 
 
 但也许您的客户在半跪时难以保持平衡和控制。
@@ -222,7 +229,9 @@ iframe
 
 很简单——让他们进行老式的髋屈肌拉伸，然后让他们呼吸。
 
-iframe
+https://www.youtube.com/watch?v=lkqaZul2OvM
+
+![image-20250803133848323](../images/image-20250803133848323.png)
 
 
 让你的客户和运动员更多地进行半跪练习将为你带来巨大的投资回报，因此，请想办法尽可能多地实现这一点。
