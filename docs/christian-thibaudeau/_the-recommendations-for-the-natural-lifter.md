@@ -16,13 +16,13 @@ Note that it is technically possible to go for moderate volume and moderate inte
  **Even if you pick a « volume » dominance, still stay more conservative than enhanced lifters when it comes to overall session volume 即使你选择以“训练量”为主导，在整体训练量方面，仍然比增强型举重运动员更加保守**
 
 Training stress has systemic effects (cortisol and adrenaline production). If you keep volume/muscle low but do a boatload of volume in your session you could negate your gains. For example, if you do 6-8 sets per muscle (which is low) but train 4-5 muscles directly, you still get to 24-40 work sets in your workout which is too much for most.
-训练压力会产生系统性影响（皮质醇和肾上腺素的产生）。如果你保持较低的训练量/肌肉量，但在训练中却投入大量的训练量，你可能会抵消你的训练成果。例如，如果你每块肌肉做6-8组（这个量很低），但直接训练4-5块肌肉，你仍然会在训练中完成24-40组，这对大多数人来说都太多了。
+训练压力会产生系统性影响（皮质醇和肾上腺素的产生）。如果你保持较低的训练量/肌肉量，但在训练中却投入大量的训练量，你可能会抵消你的训练成果。例如，*如果你每块肌肉做6-8组（这个量很低），但直接训练4-5块肌肉，你仍然会在训练中完成24-40组，这对大多数人来说都太多了。*
 
 Normally for a natural trainee, I recommend using a total of 4-5 exercises in a workout (out of which only 2-3 are big demanding lifts) which an overall volume in the 8-16 **work** **sets** range for the session.
-通常对于自然训练者，我建议在一次训练中总共进行 4-5 个练习（其中只有 2-3 个是要求较高的举重动作），整个训练的总量在 8-16 个**工作****组**范围内。
+通常对于**自然训练者**，我建议在*一次训练中总共进行 4-5 个练习（其中只有 2-3 个是要求较高的举重动作）*，整个训练的总量在 *8-16* 个**工作组**范围内。
 
 Naturals can likely go up to 20 total sets per session (but should not exceed 10-12 for a single muscle), especially if they have good recovery capacities and low life stress. But only if intensiveness is kept moderate.
-自然训练者每次训练最多可以做20组（但单个肌肉群不应超过10-12组），尤其是在恢复能力强、生活压力较小的情况下。但前提是强度要适中。
+自然训练者*每次训练最多可以做20组（但单个肌肉群不应超过10-12组），尤其是在恢复能力强、生活压力较小的情况下*。但前提是强度要适中。
 
 ## Recommendation for naturals  
 
