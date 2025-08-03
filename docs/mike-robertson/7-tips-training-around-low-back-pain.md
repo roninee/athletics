@@ -79,21 +79,23 @@
 
 
 
-## 3 – 打造一组腹肌
+## 3 – 打造一组腹肌 Build a Serious Set of Abs
 
 我已经记不清有多少次从客户或运动员那里听到过以下的说法：
 
-*“我只是背部无力。”*
+*“我只是背部无力。”*“I just have a weak back.”
 
-不。
+No.
 
-不。
+No.
 
-不，不，不，不，不，不，不。
+No, no, no, no, no, no, no.
 
-跟我重复一遍——你的背部并不虚弱。
+跟我重复一遍——你的背部并不虚弱。 Repeat after me – you do **NOT** have a weak back.
 
-***脊柱和骨盆位置\*不佳会导致腹部处于不理想的位置，从而无法保持稳定性，并迫使下背部肌肉（竖脊肌、多裂肌等）承担超过其应承担的份额的工作。**
+**Poor positioning of the spine and pelvis put the abdominals in a suboptimal position to create stability, and force the lower back muscles (erector spinae, multifidus, etc.) to do more than their fair share of the work.**
+
+**脊柱和骨盆位置不佳会导致腹部处于不理想的位置，从而无法保持稳定性，并迫使下背部肌肉（竖脊肌、多裂肌等）承担超过其应承担的份额的工作。**
 
 现在，我已经写了比我记得的更多的关于这个主题的文章，所以[如果你想了解更多关于我的核心训练方法，请务必从这里开始](https://robertsontrainingsystems.com/?s=core)。
 
@@ -101,7 +103,7 @@
 
 无论如何，如果您所接触的客户或运动员正受到下背部问题的困扰，请找到核心训练练习，让他们能够在训练计划的早期就确保安全和成功。
 
-## 4 – 解锁胸腔
+## 4 – Unlock the Thorax 解锁胸腔 
 
 多年来我发现，患有腰痛的人的胸腔通常很少（或根本不）能活动。
 
@@ -115,16 +117,18 @@
 
 当谈到解锁胸腔时，我通常会想到两种大致的动作：
 
-1. *旋转*胸腔（更多的横向平面运动），以及
-2. *弯曲*胸腔（更多额状面运动）。
+1. *旋转*胸腔（更多的横向平面运动），以及 *Rotating* the thorax (more transverse plane movement), and
+2. *弯曲*胸腔（更多额状面运动）。*Bending* the thorax (more frontal plane movement).
 
 现在我确信有人可以用更具体或更专业的描述，但就像 Lynyrd Skynyrd 一样，我是一个简单的人，所以我坚持这些！
 
 当我们谈论胸腔旋转时，手臂的动作更多地集中在*水平方向*上（想想向前和向后）。这里有一个简短的视频，可以更详细地解释这个概念……
 
+https://www.youtube.com/watch?v=buIE1LjtIaY&t=97s  RTS Coaching: Thorax Rotation
+
+ ![image-20250803132224192](../images/image-20250803132224192.png)
 
 
-<iframe loading="lazy" title="RTS 训练：胸部旋转" src="https://www.youtube.com/embed/buIE1LjtIaY?start=6&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid2" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
 
 
 
@@ -132,15 +136,9 @@
 
 
 
-<iframe loading="lazy" title="半跪式交替拉力器" src="https://www.youtube.com/embed/kmsZLT24qeY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid3" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
-
-
 相反，当我们谈论左右*弯曲*胸部时，手臂动作往往更倾向于*垂直*（想象上下），就像你在这种地雷按压变体中看到的那样。
 
 
-
-<iframe loading="lazy" title="跪姿交替地雷压" src="https://www.youtube.com/embed/-bFkPJPE7T0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid4" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
 
 
 
@@ -178,10 +176,7 @@
 
 （不确定 HICT 是什么？观看此短片……）
 
-
-
-<iframe loading="lazy" title="RTS 教练：高强度持续训练" src="https://www.youtube.com/embed/wNpoVxRNWk0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid5" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
+iframe
 
 
 它们可能不像深蹲或硬拉那样性感，但替代负重策略在训练患有下背部问题的客户或运动员时可以发挥巨大作用。
@@ -202,10 +197,7 @@
 
 虽然下面的视频是针对肩部疼痛的人的，但伸展的想法和概念仍然适用于背痛的人。
 
-
-
-<iframe loading="lazy" title="缓解肩部疼痛的简单方法" src="https://www.youtube.com/embed/7LpCVVbr7z4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid6" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
+iframe
 
 
 无论是下半身下蹲变体、俯卧撑变体，还是我们上面描述的胸部运动之一，都应提示您的客户和运动员伸展手臂（或肘部）。
@@ -221,9 +213,7 @@
 如果你不熟悉半跪式练习，不妨花几分钟时间观看这段简短的视频。它不仅讲解了正确的练习方法，还提供了丰富的练习变式供你尝试。
 
 
-
-<iframe loading="lazy" title="调整你的半跪练习" src="https://www.youtube.com/embed/K1H0rWxcJ8k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid7" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
+iframe
 
 
 但也许您的客户在半跪时难以保持平衡和控制。
@@ -232,10 +222,7 @@
 
 很简单——让他们进行老式的髋屈肌拉伸，然后让他们呼吸。
 
-
-
-<iframe loading="lazy" title="伸展髋屈肌的最佳方法" src="https://www.youtube.com/embed/lkqaZul2OvM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid8" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
+iframe
 
 
 让你的客户和运动员更多地进行半跪练习将为你带来巨大的投资回报，因此，请想办法尽可能多地实现这一点。
