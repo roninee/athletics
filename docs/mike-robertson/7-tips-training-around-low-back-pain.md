@@ -51,7 +51,7 @@
 
 但在早期，如果有人在双侧举重方面确实遇到困难，可以考虑解决这个问题，并使用*更多的分腿站立和单腿练习*。more split-stance and single-leg exercises.
 
-## #2 – 保持直立 Stay Upright
+## 2 – 保持直立 Stay Upright
 
 您是否曾经遇到过这样的客户或运动员，他们能够前蹲，但当您让他们做铰链动作时，他们的下背部会像圣诞树一样亮起来？
 
@@ -60,6 +60,8 @@
 我们*都有*。
 
 **现在我不喜欢做广泛而笼统的概括，但在大多数情况下，下背部处理压缩力的能力远远优于处理剪切力。**
+
+**Now I don’t like making broad, sweeping generalizations, but in more cases than not, the lower back deals with compressive forces far better than it does shear forces.**
 
 接下来的部分可能有点令人困惑，但我会尽力让它变得简单……
 
@@ -71,19 +73,13 @@
 
 这就是为什么如果我在训练计划初期让有下背部问题的人练习深蹲，我会坚持采用一种能让他们保持直立的变式。平板深蹲和高脚杯深蹲（如下所述）都是不错的入门选择。
 
+![image-20250803130840022](../images/image-20250803130840022.png)
 
-
-<iframe title="RTS 教练：平板深蹲" src="https://www.youtube.com/embed/wYMgO83RDo0?start=6&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid0" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
-
-
-
-
-
-<iframe title="尽快学会用高脚杯深蹲" src="https://www.youtube.com/embed/1ATo9SvaXR0?start=4&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="fitvid1" style="box-sizing: border-box; top: 0px; left: 0px; width: 770px; height: 432.734px;"></iframe>
+![image-20250803131121982](../images/image-20250803131121982.png)
 
 
 
-## #3 – 打造一组腹肌
+## 3 – 打造一组腹肌
 
 我已经记不清有多少次从客户或运动员那里听到过以下的说法：
 
@@ -105,7 +101,7 @@
 
 无论如何，如果您所接触的客户或运动员正受到下背部问题的困扰，请找到核心训练练习，让他们能够在训练计划的早期就确保安全和成功。
 
-## #4 – 解锁胸腔
+## 4 – 解锁胸腔
 
 多年来我发现，患有腰痛的人的胸腔通常很少（或根本不）能活动。
 
@@ -166,7 +162,7 @@
 
 恢复胸腔的运动并不会为您赢得任何健美比赛或举重比赛，但这是您可以做的一些小事之一，可以让您的客户和运动员保持健康和一生的良好运动。
 
-## #5 – 使用替代加载策略
+## 5 – 使用替代加载策略
 
 在训练方面我看到的最大问题之一是，人们认为如果你不使用深蹲和硬拉等大重量动作，那么你就没有进行努力训练。
 
@@ -190,7 +186,7 @@
 
 它们可能不像深蹲或硬拉那样性感，但替代负重策略在训练患有下背部问题的客户或运动员时可以发挥巨大作用。
 
-## #6 – 到达
+## 6 – 到达
 
 在许多情况下，患有下背部疼痛的人不仅有一定程度的不受控制的伸展（即骨盆前倾、下肋骨外翻等），而且还*伴随有前部重量转移*。
 
@@ -216,7 +212,7 @@
 
 他们的身体会感谢你！
 
-## #7 – 花更多时间半跪
+## 7 – 花更多时间半跪
 
 对于那些患有下背部问题的客户和运动员来说，我最常用的姿势之一就是半跪。
 
