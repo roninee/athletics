@@ -15,11 +15,23 @@
     * 对身体的控制，例如街头健身选手玩耍单杠
     * 不喜欢离心阶段，喜欢投掷，旋转，实心球 这类动作每一次都有放松的间隔
 
-## Role
+## 力量与肌肉肥大
+
+* 发展力量需要低次数
+* 发展肌肉需要高次数
+* 除此以外，背部很复杂，需要相对高次数
+
+## 组数、次数、力竭
+
+|                            |                                      | sets | reps | rest | 力竭                                                      |      |
+| -------------------------- | ------------------------------------ | ---- | ---- | ---- | --------------------------------------------------------- | ---- |
+| 深蹲，硬拉，卧推，军事推举 | 多关节，首要动作，对神经系统压力最大 |      |      |      | 不能力竭，在距离力竭前1-3次停止，对神经压力大，恢复时间长 |      |
+|                            |                                      |      |      |      |                                                           |      |
+|                            |                                      |      |      |      |                                                           |      |
+|                            |                                      |      |      |      |                                                           |      |
+|                            |                                      |      |      |      |                                                           |      |
 
 ### reps &rest
-
-
 
 * 孤立动作的次数应该是最高的，rest 时间最短45-90sec
     * 针对不同的部位，背部应该是最高的，因为背部就是控制为主，肌肉肥大
@@ -147,16 +159,32 @@ Neck raise（如图所示）：3组10次
 5. face pull  / 坐姿俯身侧平举
 6. 农夫走
 
-## 休息日
+## off days
 
-如果你真的需要去健身房，那么只有三件事可以做：[**神经充电训练**](https://thibarmy.com/?p=8847)（https://www.t-nation.com/workouts/neural-charge-training）、**灵活性训练**或[**腹部训练**](https://thibarmy.com/program/abs-fix-add-on/)。其他任何事情都可能干扰计划的执行。——by thib
+### my opinion
 
 **在家也要保持体姿锻炼。**
 
+* dance
 * face pull——哑铃坐姿俯身侧平举
 * 农夫走
 * 腹肌 悬垂举腿
 * 高抓技巧
+
+### thib
+
+on https://thibarmy.com/simple-guaranteed-strength-size/
+
+**我可以添加调理工作吗？****Can I add conditioning work?**
+
+**不！**在这个计划里加入体能训练可能是最糟糕的选择。没有什么比体能训练更能干扰所需的恢复速度了。我并不反对GPP，恰恰相反。但它有其适用的时机和地点，而这个计划并非如此。
+
+**休息日可以做什么？****What can I do on the off days?**
+
+如果你真的需要去健身房，那么只有三件事可以做：[**神经充电训练**](https://thibarmy.com/?p=8847)（https://www.t-nation.com/workouts/neural-charge-training）、**灵活性训练**或[**腹部训练**](https://thibarmy.com/program/abs-fix-add-on/)(me 也许可以加上前臂)。其他任何事情都可能干扰计划的执行。——by thib
+ [**neural charge sessions**](https://thibarmy.com/?p=8847) (https://www.t-nation.com/workouts/neural-charge-training), **mobility work**, or [**abdominal training**](https://thibarmy.com/program/abs-fix-add-on/). Anything else might interfere with the program.
+
+
 
 
 
