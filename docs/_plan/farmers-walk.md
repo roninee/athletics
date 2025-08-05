@@ -18,7 +18,7 @@ I should probably do these more often, to be honest.
 
 ### **DOUBLE RACKED KETTLEBELL CARRY 双架壶铃携带**
 
-![img](images/Racked.jpg)
+![img](../images/Racked.jpg)
 
 **4-OVERHEAD CARRIES (aka Waiter's Walk)** (the shoulder stability carry)
 **4-过顶行走（又称侍者行走）** （肩部稳定性行走）
@@ -34,12 +34,12 @@ This carry is excellent for shoulder stability because the shoulder girdle muscu
 
 ### **DOUBLE KETTLEBELL OVERHEAD CARRY 双壶铃过顶举**
 
-![img](images/DB-OH-Carries.jpg)
+![img](../images/DB-OH-Carries.jpg)
 
 **5-BOTTOMS UP KETTLEBELL CARRIES** (the full-body-intensity carry)
 **5-臀部向上壶铃搬运** （全身强度搬运）
 
-![Bottoms Up KB Carry - YouTube](images/images.jpeg)
+![Bottoms Up KB Carry - YouTube](../images/images.jpeg)
 
 Renowned spine rehab expert, Dr. Stuart McGill, has described the bottoms up kettlebell carry as *the* way to forge athleticism.
 著名脊柱康复专家斯图尔特·麦吉尔博士将自下而上携带壶铃描述为锻炼运动能力的*方法* 。
@@ -69,4 +69,4 @@ Dr. McGill has stated that every program *designed to enhance athleticism* requi
 
 ### 其他
 
-![Keeping the Shoulder Healthy!The Bottom's Up Kettlebell Carry is a ...](images/images-1753882409348-7.jpeg)
+![Keeping the Shoulder Healthy!The Bottom's Up Kettlebell Carry is a ...](../images/images-1753882409348-7.jpeg)

@@ -1,5 +1,7 @@
 
 
+# 💪Pull
+
 ## pull  肌肉负责控制，不是爆发力
 
 * push 是远离身体，所以很安全，需要爆发力
@@ -9,7 +11,7 @@
 
 ## 【全网最详细】一口气讲完快速提高引体｜从0到15+
 
-![image-20250731132000858](images/image-20250731132000858.png)
+![image-20250731132000858](../images/image-20250731132000858.png)
 
 ### 背部肌肉种类
 
@@ -68,7 +70,7 @@ eugene teo
 
 双手下拉1.5倍肩宽
 
-![image-20250731145022917](images/image-20250731145022917.png)
+![image-20250731145022917](../images/image-20250731145022917.png)
 
 ##  Thib
 
@@ -118,7 +120,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best And Worst Back Exercises (Ranked By Science)
 
-![image-20250722220227785](./images/image-20250722220227785.webp)
+![image-20250722220227785](../images/image-20250722220227785.webp)
 
 > S:  Wide-Grip lat Pulldown, Neutral-Grip lat Pulldown, Meadows Row， chest support row（健身房有），cable row
 >
