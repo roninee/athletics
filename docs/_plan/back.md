@@ -95,7 +95,7 @@ eugene teo
 
 best：weighted pull up， bb row(担心下背部，用chest support 替代), 
 
-almost best：Meadows Row, 1 arm high cable row，lat pulldown，dead row
+almost best：Meadows Row, **1 arm high cable row**，lat pulldown，dead row
 
 ###  Trap 
 
