@@ -1,4 +1,13 @@
+1. 背部——硬拉，杠铃划船，器械划船，引体向上，——用引体向上作为热身
+    High row machine 斜前方拉下来的机器， eugene teo用的是cable版本， 李茶也很推荐_考虑替代cable，
+    *到 pull up和back页面找寻动作*
 
+    优先选择用**Selectorized**，但是考虑到多样性刺激，如果被占用，就使用plate load形式的，差别不太大。
+    而且plate 更容易锻炼我的弱侧
+
+2. 肱二头肌
+
+3. face pull
 
 # 💪Pull
 
@@ -33,10 +42,7 @@ These are the only exercises where you don't push close to your limit. Do more s
 
 ##  背部
 
-* chest support row，Dumbbell Elbows Out Chest Supported Row
-  上面两个一个是有专门的，另一个用可调节凳子么？
-* t杠下拉（似乎是45度倾斜）
-* 插拔式水平划船
+
 
 ## Get A Huge Back With Only 3 Exercises 
 
