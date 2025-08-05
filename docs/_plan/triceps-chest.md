@@ -16,14 +16,18 @@ Type II > Type I ，所以适合大重量激活，而窄距平板卧推显然更
 
 *三头肌很容易确定 两个动作一个过顶，一个不过顶：哑铃 or cable臂屈伸，绳索下压*
 
+*cable 优点：移动度好，对手肘好；移动轨迹长让肌肉更长的收缩* 
+
+![image-20250805142601766](../images/image-20250805142601766.png)
+
 1. 窄距平板卧推 
     1. 3x6-8
     2. 不要过窄，对肩部压力太大
     3. triceps适合大重量激活刺激type II，而窄距平板卧推显然更容易加重
-2. overhead cable extension 头上绳索臂屈伸
+2. **overhead cable extension 头上绳索臂屈伸**
     1. 长头
     2. 3x8-12
-3. triceps cable pulldown 绳索下压
+3. **triceps cable pulldown 绳索下压**
     1.  3x8-12
     2. 针对外侧头和内侧头
     3. 正握反握没区别
