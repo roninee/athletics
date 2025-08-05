@@ -42,10 +42,7 @@ These are the only exercises where you don't push close to your limit. Do more s
 
 ##  背部
 
-* chest support row，Dumbbell Elbows Out Chest Supported Row
-  上面两个一个是有专门的，另一个用可调节凳子么？
-* t杠下拉（似乎是45度倾斜）
-* 插拔式水平划船
+
 
 ## Get A Huge Back With Only 3 Exercises 
 
