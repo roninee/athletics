@@ -1,14 +1,15 @@
-## face pull
-
-* 在家里做几组杠铃高抓对圆肩没有作用
-* 如果担心太多，可以在正式背部 day 删除 face pull
+## 休息日
 
 
 
-**在家也要保持体姿锻炼。**
-
+* 神经充电
 * dance
 * face pull——哑铃坐姿俯身侧平举
+
+    > * 在家里做几组杠铃高抓对圆肩没有作用
+    > * 如果担心太多，可以在正式背部 day 删除 face pull
+    >
+    > 
 * 农夫走
 * 腹肌 悬垂举腿
 * 高抓技巧
@@ -16,10 +17,6 @@
 ### thib
 
 on https://thibarmy.com/simple-guaranteed-strength-size/
-
-**我可以添加调理工作吗？****Can I add conditioning work?**
-
-**不！**在这个计划里加入体能训练可能是最糟糕的选择。没有什么比体能训练更能干扰所需的恢复速度了。我并不反对GPP，恰恰相反。但它有其适用的时机和地点，而这个计划并非如此。
 
 **休息日可以做什么？****What can I do on the off days?**
 

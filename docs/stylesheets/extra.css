@@ -4,9 +4,30 @@ color:#b1ac65;
 
 }
 em{
-  color: #cb530a;
+  color: hotpink;
 }
-
+h2::before {
+  counter-increment: section;
+  content: counter(section) ". ";
+  color: #80cbc4; /* 柔和的薄荷蓝，material dark 里非常常见的强调色 */
+  font-weight: bold;
+}
 body {
     font-family: "Noto Sans SC",   "Roboto", "PingFang SC",  sans-serif ;
+    counter-reset: section;
+
+}
+ 
+
+
+/* 美化 h2 样式 */
+h2 {
+  background-color: rgba(255, 255, 255, 0.05); /* 半透明白，显得高亮但不突兀 */
+  padding: 0.6em 1em;
+  border-left: 4px solid #80cbc4;  /* 左边强调条 */
+  border-radius: 0.5em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  color: #eeeeee;  /* 柔和亮色 */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
