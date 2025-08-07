@@ -22,3 +22,23 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  const content = document.querySelector(".md-content__inner"); // Material 的主容器
+  if (!content) return;
+
+  const nodes = Array.from(content.children);
+  let currentSection = null;
+
+  nodes.forEach((node) => {
+    if (node.tagName === "H2") {
+      currentSection = document.createElement("div");
+      currentSection.className = "section-card";
+      node.parentNode.insertBefore(currentSection, node);
+    }
+
+    if (currentSection) {
+      currentSection.appendChild(node);
+    }
+  });
+});
