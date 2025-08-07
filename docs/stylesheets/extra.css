@@ -6,15 +6,9 @@ color:#b1ac65;
 em{
   color: hotpink;
 }
-h2::before {
-  counter-increment: section;
-  content: counter(section) ". ";
-  color: #80cbc4; /* 柔和的薄荷蓝，material dark 里非常常见的强调色 */
-  font-weight: bold;
-}
+
 body {
     font-family: "Noto Sans SC",   "Roboto", "PingFang SC",  sans-serif ;
-    counter-reset: section;
 
 }
  
@@ -31,3 +25,4 @@ h2 {
   color: #eeeeee;  /* 柔和亮色 */
   box-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
+

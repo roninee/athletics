@@ -29,6 +29,10 @@ not_in_nav: |
   index.md
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - assets/main.js  # 确保路径正确
+
 plugins:
   - search:
       lang:
