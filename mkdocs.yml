@@ -1,5 +1,6 @@
 site_name: athletic performance
 site_url: https://mydomain.org/athletics
+dev_addr: 0.0.0.0:8000
 theme:
   name: material
   favicon: images/favicon.webp
