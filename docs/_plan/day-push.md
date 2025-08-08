@@ -3,10 +3,12 @@
 ## DB Shoulder Press
 
 
-
 ## Triceps A: DB extension
 
 * overhead
+
+![push-day-triceps-db-extensions-02.webp (360×640)](../images/push-day-triceps-db-extensions-02.webp)![push-day-triceps-db-extensions-01](../images/push-day-triceps-db-extensions-01.webp)
+
 
 ## Triceps B:  cable pulldown  
 
