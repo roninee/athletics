@@ -31,8 +31,8 @@ not_in_nav: |
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - assets/main.js  # 确保路径正确
+# extra_javascript:
+#   - assets/main.js  # 确保路径正确
 
 plugins:
   - search:
@@ -41,6 +41,7 @@ plugins:
           - ja
       separator: '[\s\-\.]+'
   # - awesome-pages
+  - section-cards
   - awesome-nav
   - tags:
       listings_map:

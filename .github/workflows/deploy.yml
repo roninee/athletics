@@ -14,4 +14,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs mkdocs-material mkdocs-awesome-nav jieba 
+      - run: pip install -e .   # 安装你当前仓库的plugin
       - run: mkdocs gh-deploy --force
