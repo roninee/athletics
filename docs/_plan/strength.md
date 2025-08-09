@@ -591,16 +591,6 @@ a：纠正左右不平衡
 - Upper Body Pull: 
 - Loaded Carry: 
 
-|                  |                                  |                                                              |
-| ---------------- | -------------------------------- | ------------------------------------------------------------ |
-| Squat            | BB Front Squat，BB Front Squat   | ![image-20250728072012183](../images/image-20250728072012183.png) |
-| Hip Hinge        | Deadlift ，**Trap Bar Deadlift** | ![image-20250728072046499](../images/image-20250728072046499.png) |
-| Lunge            |                                  | ![image-20250728072104262](../images/image-20250728072104262.png) |
-| Upper Body Press |                                  | ![image-20250728072114034](../images/image-20250728072114034.png) |
-| Upper Body Pull  |                                  | ![image-20250728072138979](../images/image-20250728072138979.png) |
-| Loaded Carry     |                                  | ![image-20250728072148901](../images/image-20250728072148901.png) |
-
-
 
 ## 高脚杯深蹲
 
