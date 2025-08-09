@@ -65,3 +65,13 @@ body {
 /* 嵌套层次缩进（可选） */
 .section-card.level-3 > .accordion { padding-left: 1.25rem; }
 .section-card.level-4 > .accordion { padding-left: 1.6rem; }
+
+.accordion-badge {
+  margin-left: auto;
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.85);
+  padding: 0.1rem 0.4rem;
+  border-radius: 10px;
+  white-space: nowrap;
+}
