@@ -29,10 +29,10 @@ theme:
 not_in_nav: |
   index.md
 extra_css:
-  - stylesheets/extra.css
+  - assets/extra.css
 
-# extra_javascript:
-#   - assets/main.js  # 确保路径正确
+extra_javascript:
+  - assets/accordion.js  # 确保路径正确
 
 plugins:
   - search:
