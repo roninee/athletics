@@ -30,6 +30,7 @@ not_in_nav: |
   index.md
 extra_css:
   - assets/extra.css
+  - assets/accordion.css
 
 extra_javascript:
   - assets/accordion.js  # 确保路径正确
