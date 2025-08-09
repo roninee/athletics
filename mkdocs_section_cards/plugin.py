@@ -8,7 +8,7 @@ class SectionCardsPlugin(BasePlugin):
     两阶段插件：
       1) on_page_markdown: 在 markdown 源里给 h2/h3/h4 编号（MkDocs 的 TOC 由此识别编号）
       2) on_page_content: 在生成的 HTML 中保留原生 <h2/h3/h4>，插入 accordion icon，并把标题与后续内容包装成 .section-card/.panel 嵌套
-         并且在构建时统计 panel 的行数（包含图片、段落、列表项、代码行等），把 badge 写进 heading。
+         并且在构建时递归统计 panel 的行数（包含图片、段落、列表、代码等），父节点会包含子节点统计（child_total + 1）。
     """
 
     # ---------- markdown 阶段：在生成 HTML 前修改 markdown 文本，确保 TOC 能识别编号 ----------
@@ -58,7 +58,7 @@ class SectionCardsPlugin(BasePlugin):
                 nl = m_atx.group(5) or "\n"
                 level = len(hashes)
 
-                # only add numbering if title is non-empty and not already numbered
+                # 只为未以数字开头的标题添加编号
                 if raw_text and not re.match(r'^\d+(\.\d+)*\s+', raw_text):
                     if level == 2:
                         counters[2] += 1
@@ -107,7 +107,7 @@ class SectionCardsPlugin(BasePlugin):
         return "".join(out_lines)
 
 
-    # ---------- HTML 阶段：构建 accordion 结构，并在构建时统计行数（排除嵌套 section-card） ----------
+    # ---------- HTML 阶段：构建 accordion 结构，并在构建时递归统计行数（计入子卡片） ----------
     def on_page_content(self, html, **kwargs):
         soup = BeautifulSoup(html, "html.parser")
         nodes = list(soup.contents)
@@ -115,8 +115,9 @@ class SectionCardsPlugin(BasePlugin):
         current_card_stack = {2: None, 3: None, 4: None}
         output = []
 
+        # first pass: build nested section-card / panel structure (preserve original headings)
         for node in nodes:
-            # text nodes -> put into nearest panel
+            # text nodes -> put into nearest panel (4->3->2) else root
             if isinstance(node, NavigableString):
                 placed = False
                 for lvl in (4, 3, 2):
@@ -188,9 +189,15 @@ class SectionCardsPlugin(BasePlugin):
                 if not placed:
                     output.append(node)
 
-        # ---------- 在构建好的结构上统计每个 card 的行数（排除嵌套的 section-card） ----------
+        # -------------------------------------------------------------------
+        # now we have nested section-card elements inside `output` list.
+        # We'll recursively compute totals for each card:
+        #   total_for_card = own_lines_excluding_child_cards + sum(child_total + 1)
+        # where +1 accounts for the child header itself.
+        # -------------------------------------------------------------------
+
         def count_in_node(node):
-            """递归统计单个 node（不进入 class=section-card 的子树）"""
+            """统计单个 node 的行数（不进入 class=section-card 的子树）"""
             total = 0
             if isinstance(node, NavigableString):
                 lines = [l for l in str(node).splitlines() if l.strip()]
@@ -198,7 +205,7 @@ class SectionCardsPlugin(BasePlugin):
             if not isinstance(node, Tag):
                 return 0
             # skip nested cards entirely
-            if "section-card" in node.get("class", []):
+            if "section-card" in (node.get("class") or []):
                 return 0
             name = node.name.lower()
             if name == "img":
@@ -211,49 +218,71 @@ class SectionCardsPlugin(BasePlugin):
             if name in ("p", "blockquote", "td", "th"):
                 lines = node.get_text("\n").split("\n")
                 return sum(1 for l in lines if l.strip())
-            # aggregate for container tags
+            # aggregate for generic container tags
             for child in node.children:
                 total += count_in_node(child)
             return total
 
-        def count_lines(panel_tag):
+        def count_own_panel_lines(panel_tag):
             """统计 panel 顶层 children 的行数（不进入 nested section-card）"""
             total = 0
             for child in panel_tag.children:
                 total += count_in_node(child)
             return total
 
-        # 递归遍历 output 找到所有 section-card，计算并插入 badge
-        def insert_badges_in_list(node_list):
-            for n in node_list:
-                if not isinstance(n, Tag):
-                    continue
-                classes = n.get("class", []) or []
-                if "section-card" in classes:
-                    # find heading (first h2/h3/h4 child)
-                    heading = None
-                    for c in n.contents:
-                        if isinstance(c, Tag) and c.name and c.name.lower() in ("h2", "h3", "h4"):
-                            heading = c
-                            break
-                    panel = n.find("div", class_="panel", recursive=False)
-                    if heading is not None and panel is not None:
-                        # calculate lines for this panel (excluding nested cards)
-                        cnt = count_lines(panel)
-                        # insert or update badge
-                        existing = heading.find("span", class_="accordion-badge")
-                        if existing:
-                            existing.string = "空" if cnt == 0 else f"{cnt} 行"
-                        else:
-                            badge = soup.new_tag("span", **{"class": "accordion-badge"})
-                            badge.string = "空" if cnt == 0 else f"{cnt} 行"
-                            heading.append(badge)
-                        # recurse into panel content (so nested cards get badges too)
-                        insert_badges_in_list(panel.contents)
-                else:
-                    # not a card: traverse children to find nested cards
-                    insert_badges_in_list(n.contents)
+        # 递归：计算单个 card 的 total（包含子卡片贡献），并在 heading 上插入 badge
+        def compute_card_total(card_tag):
+            # find its direct panel (should exist)
+            panel = None
+            for ch in card_tag.contents:
+                if isinstance(ch, Tag) and ch.name == "div" and "panel" in (ch.get("class") or []):
+                    panel = ch
+                    break
+            if panel is None:
+                # no panel -> zero
+                own = 0
+                children_total = 0
+            else:
+                own = count_own_panel_lines(panel)
+                children_total = 0
+                # find immediate child cards (direct children in panel)
+                for child in list(panel.children):
+                    if isinstance(child, Tag) and "section-card" in (child.get("class") or []):
+                        ctot = compute_card_total(child)  # recursion: computes child's badge too
+                        # add child's total + 1 (for the child header itself)
+                        children_total += (ctot + 1)
+                # note: count_own_panel_lines already ignored nested section-card content
 
-        insert_badges_in_list(output)
+            total = own + children_total
+
+            # insert/update badge on this card's heading
+            # heading is first h2/h3/h4 child in card_tag
+            heading = None
+            for c in card_tag.contents:
+                if isinstance(c, Tag) and c.name and c.name.lower() in ("h2", "h3", "h4"):
+                    heading = c
+                    break
+            if heading is not None:
+                existing = heading.find("span", class_="accordion-badge")
+                if existing:
+                    existing.string = "空" if total == 0 else f"{total} 行"
+                else:
+                    badge = BeautifulSoup("", "html.parser").new_tag("span")
+                    badge["class"] = "accordion-badge"
+                    badge.string = "空" if total == 0 else f"{total} 行"
+                    heading.append(badge)
+
+            return total
+
+        # run compute on top-level output items to annotate badges recursively
+        for top in output:
+            if isinstance(top, Tag):
+                # traverse to find section-cards in output
+                if "section-card" in (top.get("class") or []):
+                    compute_card_total(top)
+                else:
+                    # top may be a container; find any direct section-card children within it
+                    for child in top.find_all("div", class_="section-card", recursive=False):
+                        compute_card_total(child)
 
         return "".join(str(n) for n in output)
