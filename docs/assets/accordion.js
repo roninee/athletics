@@ -47,24 +47,14 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  // ===== 新增：统计内容行数并显示 badge =====
+  // 点击标题切换
   document.querySelectorAll(".accordion").forEach(function (hdr) {
-    const panel = hdr.nextElementSibling;
-    if (!panel || !panel.classList.contains("panel")) return;
-    // 统计非空行数（去掉空文本节点）
-    const textLines = panel.innerText.split("\n").filter(l => l.trim() !== "");
-    const count = textLines.length;
-    const badge = document.createElement("span");
-    badge.className = "accordion-badge";
-    badge.textContent = count === 0 ? "空" : count + "行";
-    hdr.appendChild(badge);
-  });
-
-  document.querySelectorAll(".accordion").forEach(function (hdr) {
-    hdr.addEventListener("click", function () {
+    hdr.addEventListener("click", function (ev) {
       const panel = hdr.nextElementSibling;
       if (!panel || !panel.classList.contains("panel")) return;
+
       const isOpen = panel.classList.contains("open");
+
       if (isOpen) {
         closePanel(panel);
         hdr.classList.remove("active");
@@ -75,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // ===== 改进的 hash 定位，展开目标标题本身的 panel =====
+  // 改进的 hash 定位，展开目标标题本身的 panel
   function smoothScrollToElement(el) {
     if (!el) return;
     const header = document.querySelector(".md-header");
@@ -92,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const target = document.getElementById(id);
     if (target) {
       openAncestorPanelsOf(target);
-      // ===== 新增：如果目标标题本身有 panel，则展开它 =====
+      // 如果目标标题本身有 panel，则展开它
       if (target.classList.contains("accordion")) {
         const ownPanel = target.nextElementSibling;
         if (ownPanel && ownPanel.classList.contains("panel")) {
@@ -120,7 +110,6 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!target) return;
         ev.preventDefault();
         openAncestorPanelsOf(target);
-        // ===== 同样展开目标本身 =====
         if (target.classList.contains("accordion")) {
           const ownPanel = target.nextElementSibling;
           if (ownPanel && ownPanel.classList.contains("panel")) {
