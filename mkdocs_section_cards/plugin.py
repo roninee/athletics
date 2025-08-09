@@ -208,6 +208,8 @@ class SectionCardsPlugin(BasePlugin):
             if "section-card" in (node.get("class") or []):
                 return 0
             name = node.name.lower()
+
+            # 图片直接算 1 行（并且这里也会统计 <img> 在 <p> 内的情况）
             if name == "img":
                 return 1
             if name == "li":
@@ -215,10 +217,16 @@ class SectionCardsPlugin(BasePlugin):
             if name == "pre":
                 pre_lines = node.get_text("\n").split("\n")
                 return sum(1 for l in pre_lines if l.strip())
+
+            # 对于 p/blockquote/td/th：统计文字行 + 内部 <img> 个数
             if name in ("p", "blockquote", "td", "th"):
                 lines = node.get_text("\n").split("\n")
-                return sum(1 for l in lines if l.strip())
-            # aggregate for generic container tags
+                text_count = sum(1 for l in lines if l.strip())
+                # count images inside this node (not entering nested section-card because those were skipped above)
+                img_count = len(node.find_all("img"))
+                return text_count + img_count
+
+            # aggregate for generic container tags (recurse)
             for child in node.children:
                 total += count_in_node(child)
             return total
@@ -239,7 +247,6 @@ class SectionCardsPlugin(BasePlugin):
                     panel = ch
                     break
             if panel is None:
-                # no panel -> zero
                 own = 0
                 children_total = 0
             else:
@@ -256,7 +263,6 @@ class SectionCardsPlugin(BasePlugin):
             total = own + children_total
 
             # insert/update badge on this card's heading
-            # heading is first h2/h3/h4 child in card_tag
             heading = None
             for c in card_tag.contents:
                 if isinstance(c, Tag) and c.name and c.name.lower() in ("h2", "h3", "h4"):
